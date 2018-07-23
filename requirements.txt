@@ -3,3 +3,4 @@ pandas==0.23.3
 numpy==1.14.5
 ibm-db==2.0.8a
 pytest==3.6.3
+requests==2.19.1
